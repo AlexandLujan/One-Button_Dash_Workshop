@@ -1,0 +1,41 @@
+# ========== Unity Core ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# ========== IDE / Editor ==========
+.vs/
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.csproj.user
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.DotSettings
+
+# ========== OS Junk ==========
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ========== Build Artifacts ==========
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
+*.pdb
+*.mdb
+
+# Crash / debug logs
+sysinfo.txt
